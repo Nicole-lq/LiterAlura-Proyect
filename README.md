@@ -63,7 +63,7 @@ La modadlidad de trabajo se dió bajo el sistema ágil de desarrollo, por medio 
 
 La interfaz de usuario se puede apreciar a continuación:
 
-[<img src ="imagenes/Trello.png">](https://trello.com/b/RU41cvaQ/conversor-de-moneda-challenge-one-java-back-end)
+[<img src ="imagenes/Trello.png">](https://trello.com/b/WDyMPDMb/literalura-challenge-java)
 
 
 ## Estado del proyecto
