@@ -1,4 +1,6 @@
-<img src="imagenes/logos.png" width="300">
+<p align="center">
+  <img src="imagenes/logos.png" width="300">
+</p>
 
 # Challenge LiterAlura
 
@@ -102,9 +104,9 @@ La API Gutendex es una interfaz que proporciona acceso a una colección de libro
 
 
 ## Medalla
-
+<p align="center">
 <img src="imagenes/Insignia.png" width="300">
-
+</p>
 
 
 ## Desarrollador
