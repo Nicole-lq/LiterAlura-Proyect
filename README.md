@@ -2,7 +2,7 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-# Challenge LiterAlura
+# Proyecto LiterAlura
 
 Respositorio del desafío LiterAlura de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
@@ -16,7 +16,7 @@ Respositorio del desafío LiterAlura de la ruta "Desarrollador BackEnd" de Alura
 
 ## Índice
 
-* [Challenge LiterAlura](#Challenge-LiterAlura)
+* [Proyecto LiterAlura](#Proyecto-LiterAlura)
 
 * [Insignias](#insignias)
 
