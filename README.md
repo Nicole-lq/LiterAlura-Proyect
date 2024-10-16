@@ -2,93 +2,93 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-# Proyecto LiterAlura
+# LiterAlura Project
 
-Respositorio del desafío LiterAlura de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
+Repository for the LiterAlura challenge of the "BackEnd Developer" path from Alura Latam and ORACLE ONE.
 
 
-## Insignias
+## Badges
 
 ![GitHub License](https://img.shields.io/github/license/Nicole-lq/Challenge_literatura_NLQ)
 ![Maven Central Version](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-compiler-plugin)
 ![GitHub Release](https://img.shields.io/github/v/release/Nicole-lq/Challenge_literatura_NLQ?filter=v0.1.0-beta&display_name=tag)
 
 
-## Índice
+## Table of Contents
 
-* [Proyecto LiterAlura](#Proyecto-LiterAlura)
+* [LiterAlura Project](#literAlura-project)
 
-* [Insignias](#insignias)
+* [Badges](#badges)
 
-* [Índice](#índice)
+* [Table of Contents](#table-of-contents)
 
-* [Descripción del proyecto](#Descripción-del-proyecto)
+* [Project Description](#project-description)
 
-* [Estado del proyecto](#Estado-del-proyecto)
+* [Project Status](#project-status)
 
-* [Características principales](#Características-principales)
+* [Main Features](#main-features)
 
-* [Acceso al proyecto](#acceso-proyecto)
+* [Access to the Project](#access-to-the-project)
 
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Technologies Used](#technologies-used)
   
-* [Gutendex API](#Gutendex-API)
+* [Gutendex API](#gutendex-api)
   
-* [Medalla](#Medalla)
+* [Medal](#medal)
 
-* [Desarrollador](#Desarrollador)
+* [Developer](#developer)
 
 
 
-## Descripción del proyecto
+## Project Description
 
-Este proyecto se implementa como aplicación Spring Boot diseñada para gestionar un catálogo de libros, interactuando con una base de datos PostgreSQL. La aplicación incluye la funcionalidad de recuperar libros en función de su lenguaje a través de un repositorio JPA personalizado, todo en función de información obtenida con la API Gutendex.
+This project is implemented as a Spring Boot application designed to manage a book catalog, interacting with a PostgreSQL database. The application includes the functionality of retrieving books based on their language through a custom JPA repository, all based on information obtained from the Gutendex API.
 
-## Componentes principales
+## Main Components
 
-* Entidades de JPA
-* Repositorios
-* Servicios
-* Configuración de JPA
-* Aplicación Principal
+* JPA Entities
+* Repositories
+* Services
+* JPA Configuration
+* Main Application
 
-## Modalidad de trabajo
+## Workflow
 
-La modadlidad de trabajo se dió bajo el sistema ágil de desarrollo, por medio de la herramienta Trello, considerando las  siguientes etapas:
+The work methodology followed an agile development system, using the Trello tool, considering the following stages:
 
-* "Listos para iniciar"
-* "En Desarrollo"
-* "Pausado"
-* "Concluido"
+* "Ready to start"
+* "In Development"
+* "Paused"
+* "Completed"
 
-La interfaz de usuario se puede apreciar a continuación:
+The user interface can be seen below:
 
 [<img src ="imagenes/Trello.png">](https://trello.com/b/WDyMPDMb/literalura-challenge-java)
 
 
-## Estado del proyecto
+## Project Status
 
-EL proyecto está desarrollado para cumplir con lo solicitado por el Challenge, pero aún tiene cosas por mejorar. Por ejemplo, se podría optimizar la configuración de JPA, simplificar la gestión de la unidad de persistencia y añadir pruebas unitarias para garantizar la estabilidad y funcionalidad del programa.
+The project has been developed to meet the requirements of the challenge, but there are still improvements to be made. For example, JPA configuration could be optimized, persistence unit management simplified, and unit tests added to ensure the program's stability and functionality.
 
-### Características principales
+### Main Features
 
-* Integración con Gutendex API.
-* Almacenamiento en PostgreSQL.
-* Uso de Spring Boot.
-* Configuración JPA.
-* Repositorio de Libros.
-* Manejo de Excepciones.
-* Inyección de Dependencias.
+* Integration with Gutendex API.
+* Storage in PostgreSQL.
+* Use of Spring Boot.
+* JPA Configuration.
+* Book Repository.
+* Exception Handling.
+* Dependency Injection.
 
-## Acceso al proyecto
+## Access to the Project
 
-Puedes clonar este repositorio usando el siguiente comando:
+You can clone this repository using the following command:
 
 ```sh
 git clone https://github.com/Nicole-lq/Challenge_literatura_NLQ.git
 ```
 
-## Tecnologías utilizadas
+## Technologies Used
 
 * Java 17
 * Maven
@@ -98,18 +98,18 @@ git clone https://github.com/Nicole-lq/Challenge_literatura_NLQ.git
 
 ## Gutendex API
 
-La API Gutendex es una interfaz que proporciona acceso a una colección de libros electrónicos del Proyecto Gutenberg, los cuales son de dominio público. Esta API permite buscar y recuperar información detallada sobre los libros mediante diversos criterios como título, autor, idioma y tema. Además, ofrece funcionalidades de filtrado, ordenación y paginación de los resultados, lo que facilita la gestión de grandes conjuntos de datos. La API devuelve los resultados en formato JSON, facilitando la integración de éstos a diferentes plataformas de trabajo, permitiendo incorporar recursos literarios de dominio público a proyectos personales de manera rápida y sencilla.
+The Gutendex API is an interface that provides access to a collection of electronic books from Project Gutenberg, which are in the public domain. This API allows you to search and retrieve detailed information about books based on various criteria such as title, author, language, and subject. It also offers filtering, sorting, and pagination functionalities, making it easy to manage large datasets. The API returns results in JSON format, facilitating integration into different platforms, allowing users to incorporate public domain literary resources into personal projects quickly and easily.
 
 [<img src= "imagenes/Gutendex.png">](https://gutendex.com)
 
-
-## Medalla
+## Medal
 <p align="center">
 <img src="imagenes/Insignia.png" width="300">
 </p>
 
-
-## Desarrollador
+## Developer
 
 |[<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 |---|
+
+
